@@ -21,7 +21,7 @@
  * @version 9.0
  */
 
-public class UseCase9{
+public class Palindrome9{
 
     /**
      * Application entry point for UC9.
